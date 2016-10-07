@@ -1,6 +1,6 @@
-=== BP Custom landing page for members & groups ===
+=== BuddyPress Custom Landing Pages ===
 Contributors: ckchaudhary, cvivek923
-Tags: buddypress, profile, members, groups
+Tags: buddypress, profile, members, groups, landing, pages
 Donate link: http://webdeveloperswall.com
 Requires at least: BuddyPress 2.6.0
 Tested up to: BuddyPress 2.6.2
@@ -19,9 +19,8 @@ Groups - The default landing page for a group is the group\'s activity feed. Wit
 
 Watch this short video here to get a better idea:
 
-[youtube https://www.youtube.com/watch?v=ScMzIvxBSi4] 
-
 == Installation ==
+
 = From your WordPress dashboard =
 
 1. Visit \'Plugins > Add New\'
